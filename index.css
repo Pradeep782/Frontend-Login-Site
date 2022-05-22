@@ -42,7 +42,7 @@ body{
      outline: none;
      color:white;
 }
-.btn{
+.clickTest{
     cursor:pointer;
     outline:none;
     width:25%;
@@ -56,7 +56,7 @@ body{
     font-weight:bold;
     font-family: 'Dosis', sans-serif;
 }
-.btn:hover{
+.clickTest:hover{
     color:purple;
     background-color: royalblue;
 }
