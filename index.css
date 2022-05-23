@@ -42,7 +42,7 @@ body{
      outline: none;
      color:white;
 }
-.clickTest{
+.clickTest, .searchDB{
     cursor:pointer;
     outline:none;
     width:25%;
@@ -60,6 +60,11 @@ body{
     color:purple;
     background-color: royalblue;
 }
+.searchDB:hover{
+    color:purple;
+    background-color: royalblue;
+}
+
 .box i{
     width:25px;
     text-align:center;
